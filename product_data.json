@@ -1,0 +1,331 @@
+[
+    {
+        "name": "Dell Inspiron N4050",
+        "price": 70000,
+        "category": "laptop",
+        "active": false,
+        "rating": 4.5
+    },
+    {
+        "name": "Apple iPhone 14",
+        "price": 150000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.8
+    },
+    {
+        "name": "Sony Alpha A6400",
+        "price": 120000,
+        "category": "camera",
+        "active": true,
+        "rating": 4.7
+    },
+    {
+        "name": "HP Pavilion x360",
+        "price": 85000,
+        "category": "laptop",
+        "active": false,
+        "rating": 4.3
+    },
+    {
+        "name": "Samsung Galaxy Watch 6",
+        "price": 40000,
+        "category": "watch",
+        "active": true,
+        "rating": 4.6
+    },
+    {
+        "name": "Logitech G733",
+        "price": 15000,
+        "category": "headphone",
+        "active": true,
+        "rating": 4.2
+    },
+    {
+        "name": "Canon EOS M50 Mark II",
+        "price": 95000,
+        "category": "camera",
+        "active": true,
+        "rating": 4.4
+    },
+    {
+        "name": "Lenovo ThinkPad X1",
+        "price": 120000,
+        "category": "laptop",
+        "active": false,
+        "rating": 4.8
+    },
+    {
+        "name": "OnePlus 11 Pro",
+        "price": 80000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.5
+    },
+    {
+        "name": "Sony WH-1000XM5",
+        "price": 30000,
+        "category": "headphone",
+        "active": false,
+        "rating": 4.9
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 160000,
+        "category": "laptop",
+        "active": true,
+        "rating": 4.7
+    },
+    {
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 180000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.9
+    },
+    {
+        "name": "Fossil Gen 6",
+        "price": 30000,
+        "category": "watch",
+        "active": true,
+        "rating": 4.3
+    },
+    {
+        "name": "Bose QC45",
+        "price": 35000,
+        "category": "headphone",
+        "active": false,
+        "rating": 4.6
+    },
+    {
+        "name": "Apple MacBook Air M2",
+        "price": 125000,
+        "category": "laptop",
+        "active": true,
+        "rating": 4.9
+    },
+    {
+        "name": "Nikon Z50",
+        "price": 115000,
+        "category": "camera",
+        "active": true,
+        "rating": 4.6
+    },
+    {
+        "name": "Acer Predator Helios",
+        "price": 140000,
+        "category": "desktop",
+        "active": false,
+        "rating": 4.5
+    },
+    {
+        "name": "Garmin Venu 2 Plus",
+        "price": 45000,
+        "category": "watch",
+        "active": true,
+        "rating": 4.8
+    },
+    {
+        "name": "Sony Bravia Desktop",
+        "price": 95000,
+        "category": "desktop",
+        "active": false,
+        "rating": 4.4
+    },
+    {
+        "name": "Apple Watch Series 8",
+        "price": 70000,
+        "category": "watch",
+        "active": true,
+        "rating": 4.9
+    },
+    {
+        "name": "Microsoft Surface Laptop 5",
+        "price": 145000,
+        "category": "laptop",
+        "active": false,
+        "rating": 4.7
+    },
+    {
+        "name": "Asus ROG Phone 6",
+        "price": 90000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.5
+    },
+    {
+        "name": "Sony RX100 VII",
+        "price": 125000,
+        "category": "camera",
+        "active": false,
+        "rating": 4.8
+    },
+    {
+        "name": "Beats Studio 3",
+        "price": 27000,
+        "category": "headphone",
+        "active": true,
+        "rating": 4.3
+    },
+    {
+        "name": "Razer Blade 15",
+        "price": 200000,
+        "category": "laptop",
+        "active": true,
+        "rating": 4.6
+    },
+    {
+        "name": "Canon PowerShot G7 X",
+        "price": 75000,
+        "category": "camera",
+        "active": true,
+        "rating": 4.4
+    },
+    {
+        "name": "Samsung Odyssey G5",
+        "price": 85000,
+        "category": "desktop",
+        "active": false,
+        "rating": 4.3
+    },
+    {
+        "name": "Huawei Mate 50 Pro",
+        "price": 110000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.7
+    },
+    {
+        "name": "Xiaomi Mi Band 8",
+        "price": 5000,
+        "category": "watch",
+        "active": true,
+        "rating": 4.2
+    },
+    {
+        "name": "Acer Aspire 7",
+        "price": 70000,
+        "category": "laptop",
+        "active": true,
+        "rating": 4.4
+    },
+    {
+        "name": "Logitech MX Master 3",
+        "price": 8000,
+        "category": "headphone",
+        "active": false,
+        "rating": 4.5
+    },
+    {
+        "name": "Nikon D7500",
+        "price": 98000,
+        "category": "camera",
+        "active": true,
+        "rating": 4.5
+    },
+    {
+        "name": "Sony Vaio SE14",
+        "price": 95000,
+        "category": "laptop",
+        "active": true,
+        "rating": 4.6
+    },
+    {
+        "name": "Oppo Find X6 Pro",
+        "price": 85000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.5
+    },
+    {
+        "name": "Bang & Olufsen H95",
+        "price": 90000,
+        "category": "headphone",
+        "active": true,
+        "rating": 4.9
+    },
+    {
+        "name": "Samsung Smart Monitor M8",
+        "price": 70000,
+        "category": "desktop",
+        "active": true,
+        "rating": 4.5
+    },
+    {
+        "name": "Fitbit Versa 4",
+        "price": 25000,
+        "category": "watch",
+        "active": true,
+        "rating": 4.4
+    },
+    {
+        "name": "Asus TUF Gaming A15",
+        "price": 130000,
+        "category": "laptop",
+        "active": false,
+        "rating": 4.6
+    },
+    {
+        "name": "Huawei MateView GT",
+        "price": 65000,
+        "category": "desktop",
+        "active": true,
+        "rating": 4.4
+    },
+    {
+        "name": "Realme Watch S Pro",
+        "price": 15000,
+        "category": "watch",
+        "active": false,
+        "rating": 4.3
+    },
+    {
+        "name": "Xiaomi Redmi Note 13 Pro",
+        "price": 35000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.4
+    },
+    {
+        "name": "Logitech G Pro X",
+        "price": 20000,
+        "category": "headphone",
+        "active": true,
+        "rating": 4.5
+    },
+    {
+        "name": "Apple Studio Display",
+        "price": 175000,
+        "category": "desktop",
+        "active": true,
+        "rating": 4.8
+    },
+    {
+        "name": "Honor Magic Watch 2",
+        "price": 20000,
+        "category": "watch",
+        "active": false,
+        "rating": 4.2
+    },
+    {
+        "name": "Lenovo Legion Tower 5",
+        "price": 150000,
+        "category": "desktop",
+        "active": true,
+        "rating": 4.6
+    },
+    {
+        "name": "Apple iPhone SE 3rd Gen",
+        "price": 60000,
+        "category": "smartphone",
+        "active": true,
+        "rating": 4.3
+    },
+    {
+        "name": "HyperX Cloud Alpha",
+        "price": 13000,
+        "category": "headphone",
+        "active": true,
+        "rating": 4.4
+    }
+]
